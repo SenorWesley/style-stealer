@@ -1,0 +1,23 @@
+{
+  "name": "owow/style-stealer",
+  "description": "A package to steal page styles.",
+  "type": "library",
+  "license": "Beerware",
+  "keywords": [
+    "laravel",
+    "style",
+    "css",
+    "style-stealer"
+  ],
+  "authors": [
+    {
+      "name": "dees040",
+      "email": "dees@owow.io"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.2",
+    "sabberworm/php-css-parser": "7.0.*"
+  }
+}
